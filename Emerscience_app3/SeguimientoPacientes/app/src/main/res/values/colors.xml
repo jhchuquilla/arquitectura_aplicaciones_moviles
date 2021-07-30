@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="negro">#FE000000</color>
+    <color name="azul_app">#1F357B</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B3B</color>
+    <color name="colorPreguntasFormFam">#1B1A1A</color>
+    <color name="colorCheckBoxes">#787777</color>
+    <color name="azul_celeste">#296ACF</color>
+    <color name="celeste_cielo">#D9AED6F6</color>
+    <color name="color_formulario_estudiante">#1F357B</color>
+    <color name="color_formulario_familiar">#0473cb</color>
+    <color name="color_declaracion_blanco">#FFFFFF</color>
+    <color name="colorAtencionUrgente">#C30626</color>
+    <color name="colorComuniquese">#E3802F</color>
+    <color name="colorNoRequiereHospitalizacion">#4CAF50</color>
+</resources>

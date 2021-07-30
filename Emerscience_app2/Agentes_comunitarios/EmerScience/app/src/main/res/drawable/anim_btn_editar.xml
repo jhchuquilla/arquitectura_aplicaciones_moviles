@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/icono_editar_press" android:state_pressed="true" ></item>
+    <item android:state_enabled="false" android:drawable="@drawable/icono_editar_press"></item>
+    <item android:drawable="@drawable/icono_editar"></item>
+</selector>

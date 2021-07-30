@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Seguimiento Pacientes</string>
+
+    <string name="txt_aceptar">ACEPTAR</string>
+    <string name="string_desarrollado_por">DESARROLLADO POR:</string>
+    <string name="string_universidad_central">UNIVERSIDAD CENTRAL</string>
+    <string name="string_del_Ecuador">DEL ECUADOR</string>
+    <string name="string_titulo_app">APLICATIVO PARA SEGUIMIENTO EPIDEMIOLÓGICO</string>
+    <string name="string_titulo_aceptacion_encuesta">IMPORTANTE</string>
+    <string name="string_mensaje_aceptacion_encuesta">Acepta participar de forma libre y voluntaria
+        en uso de esta aplicación y autoriza utilizar la información para realizar seguimiento
+        epidemiológico. Su información será manejada de manera confidencial y para los fines descritos.
+    </string>
+
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="welcome">"Bienvenido"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="string_cerrar_sesion">Cerrar Sesión</string>
+    <string name="str_seguimiento">Seguimiento</string>
+    <string name="txt_cedula">Cédula</string>
+    <string name="str_nombre">Apellidos y Nombres</string>
+    <string name="str_buscar">BUSCAR</string>
+    <string name="seguimiento2">Seguimiento</string>
+    <string name="str_pregunta_2">Solo números *</string>
+    <string name="str_pregunta3">Solo números *</string>
+    <string name="str_pregunta_1">Solo números *</string>
+    <string name="str_registrar">Registrar</string>
+    <string name="str_cedula">CÉDULA</string>
+
+    <string name="rbSi">Si</string>
+    <string name="rbNo">No</string>
+
+    <string name="lblApellidos">Apellidos</string>
+    <string name="lblNombres">Nombres</string>
+    <string name="lblEdad">Edad</string>
+    <string name="lblFrecResp">Frecuencia Respiratoria</string>
+    <string name="lblFrecCardiaca">Frecuencia cardiaca o pulso</string>
+    <string name="lblTemperatura">Temperatura corporal</string>
+    <string name="lblSatOxigeno">Saturación oxígeno (%)</string>
+    <string name="lblDifRespirar">Dificultad para respirar, dolor u opresión en el pecho</string>
+    <string name="lblFatiga">Fatiga o cansancio grave o severo</string>
+    <string name="lblDifHablar">Dificultades para hablar o moverse</string>
+    <string name="lblDelirio">Delirio o pérdida de la conciencia</string>
+    <string name="reporte_seguimiento">Síntomas\nregistrados</string>
+    <string name="visualizar_casos">Visualizar\ncasos</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lista_de_registros_por_dia">Lista de registros por día</string>
+    <string name="seleccione_el_registro_para_visualizar_informacion_mas_detallada">Seleccione el registro para visualizar información más detallada</string>
+    <string name="seguimiento">Seguimiento</string>
+    <string name="fecha_de_registro">Fecha de registro</string>
+    <string name="ver_individual">Ver individual</string>
+    <string name="ver_todo">Ver todo</string>
+    <string name="visualizar_casos_reportados">Visualizar Casos Reportados</string>
+    <string name="gestion_de_usuarios">Gestión de \nusuarios</string>
+    <string name="crear_nuevo">Crear nuevo</string>
+    <string name="ver_editar">Ver / Editar</string>
+    <string name="creando_nuevo_usuario">Creando nuevo usuario</string>
+    <string name="usuario">Usuario</string>
+    <string name="es_usuario_ldap">Es usuario LDAP</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="usuario_activo">Usuario activo</string>
+    <string name="crear_usuario">Crear</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="lista_de_usuarios">LISTA DE USUARIOS</string>
+    <string name="tv_informacion_lista_usuarios">Seleccione el usuario que se desee editar o visualizar información más detallada</string>
+    <string name="txt_imagen_usuario">Imagen usuario</string>
+    <string name="txt_tv_usuario">Usuario</string>
+    <string name="txt_tv_rol">Rol</string>
+    <string name="txt_tv_estado_usuario">Estado</string>
+    <string name="text_txt_aviso_contra">
+        Al activar la opción \"Es usuario LDAP\" no se debe ingresar contraseña,
+        el usuario debe ingresar con la clave de su usuario correspondiente a su cuenta universitaria
+    </string>
+    <string name="txt_cambiar_contrasena">Cambiar contraseña</string>
+    <string name="txt_cambiando_contrasena">Cambiando contraseña</string>
+    <string name="txt_nueva_contrasena">Nueva Contraseña</string>
+    <string name="txt_cambio_contrasena">Cambiar</string>
+    <string name="txt_aviso_cambio_contraseña">Al cambiar su contraseña deberá volver a iniciar sesión</string>
+    <string-array name="rol_usuario">
+        <item>Seleccione un Rol</item>
+        <item>ROL_SUPERVISOR</item>
+        <item>ROL_VIGILANTE</item>
+    </string-array>
+
+</resources>

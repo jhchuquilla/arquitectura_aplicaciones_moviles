@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "753547432666",
+    "firebase_url": "https://emerscienceapp-d3fe7.firebaseio.com",
+    "project_id": "emerscienceapp-d3fe7",
+    "storage_bucket": "emerscienceapp-d3fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753547432666:android:45493fa774a1f7bb8f4be3",
+        "android_client_info": {
+          "package_name": "com.emerscience.activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753547432666-btsr41n21nad7d4tpkpmnc1e5sqh82fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwOGXFcv2mxBj3TBsDScKso4eVxP4Kghc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753547432666-btsr41n21nad7d4tpkpmnc1e5sqh82fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753547432666:android:4632e928ccd214408f4be3",
+        "android_client_info": {
+          "package_name": "com.emerscience.activitys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753547432666-66dls6ih4i1v29oniv4m7sp0kanf009c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emerscience.activitys",
+            "certificate_hash": "fb8bf8b32f75acd45cc043b6d9c4636bb7be5764"
+          }
+        },
+        {
+          "client_id": "753547432666-btsr41n21nad7d4tpkpmnc1e5sqh82fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwOGXFcv2mxBj3TBsDScKso4eVxP4Kghc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753547432666-btsr41n21nad7d4tpkpmnc1e5sqh82fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753547432666:android:b409aac900ac6e528f4be3",
+        "android_client_info": {
+          "package_name": "com.example.emerscience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753547432666-bhmtp2e99r5p5e8tihecm8c7sbtsdvdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emerscience",
+            "certificate_hash": "fb8bf8b32f75acd45cc043b6d9c4636bb7be5764"
+          }
+        },
+        {
+          "client_id": "753547432666-btsr41n21nad7d4tpkpmnc1e5sqh82fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwOGXFcv2mxBj3TBsDScKso4eVxP4Kghc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753547432666-btsr41n21nad7d4tpkpmnc1e5sqh82fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

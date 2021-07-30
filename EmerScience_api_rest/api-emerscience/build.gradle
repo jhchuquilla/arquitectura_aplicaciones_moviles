@@ -1,0 +1,35 @@
+plugins {
+    // Apply the java-library plugin to add support for Java Library
+    id 'java-library'
+    id 'war'
+    id 'eclipse-wtp'
+}
+
+repositories {
+    
+    jcenter()
+}
+
+dependencies {
+    
+    //JAX-RS
+	compile group: 'org.jboss.resteasy', name: 'resteasy-servlet-initializer', version: '3.9.0.Final'
+	compile group: 'org.jboss.resteasy', name: 'resteasy-jaxrs', version: '3.9.0.Final'
+	compile group: 'org.jboss.resteasy', name: 'resteasy-jackson2-provider', version: '3.9.0.Final'
+	compile group: 'org.jboss.resteasy', name: 'resteasy-cdi', version: '3.9.0.Final'
+	
+	//CDI
+	compile group: 'org.jboss.weld.servlet', name: 'weld-servlet-core', version: '3.1.2.Final'
+
+	//DB
+	compile group: 'org.postgresql', name: 'postgresql', version: '42.2.8'
+	
+	//JSON WEB TOKEN (JWT) SEGURIDADES DE AUTENTICACION
+	compile group: 'io.jsonwebtoken', name: 'jjwt', version: '0.9.1'
+	
+	//BCRYPT PASSWORD ENCRYPT
+	implementation group: 'org.mindrot', name: 'jbcrypt', version: '0.4'
+	
+	
+    
+}

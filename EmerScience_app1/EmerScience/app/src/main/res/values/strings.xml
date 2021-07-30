@@ -1,0 +1,207 @@
+<resources>
+    <string name="app_name">EmerScience</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_login">Iniciar Sesión</string>
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="welcome">"Bienvenido"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="llenar_nuevo_formulario">Llenar Nuevo Formulario</string>
+    <string name="editar_formulario_guardado">Editar Formulario Guardado</string>
+    <string name="enviar_formulario_finalizado">Enviar Formulario Finalizado</string>
+    <string name="ver_formularios_enviados">Ver Formularios Enviados</string>
+    <string name="obtener_formulario_en_blanco">Obtener Formulario En Blanco</string>
+    <string name="borrar_formularios_guardados">Borrar Formularios Guardados</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="editar_formulario">Llenar Formulario Familiares</string>
+    <string name="nuevo_formulario">Nuevo Formulario</string>
+
+    <string name="txtPregunta1">Acepta participar de forma libre y voluntaria en la realización de
+        esta encuesta y autoriza utilizar la información para realizar seguimiento epidemiológico. Su información será manejada de manera confidencial y para los fines descritos.
+    </string>
+    <string name="rbSi">Si</string>
+    <string name="rbNo">No</string>
+
+    <string name="txtLyDatosInformante">Datos Personales</string>
+    <string name="txtNombresApellidos">Nombres y apellidos del Informante</string>
+    <string name="etApellidos">Apellidos*</string>
+    <string name="etNombres">Nombres*</string>
+    <string name="etCedula">Número de cédula*</string>
+    <string name="etEdad">Edad en años*</string>
+    <string name="txtSexo">Sexo*</string>
+    <string name="rbMasculino">Masculino</string>
+    <string name="rbFemenino">Femenino</string>
+
+    <string name="txtTelefonoInformante">Teléfono del Informante</string>
+    <string name="etCelular">Teléfono celular*</string>
+    <string name="etTelefono">Teléfono fijo</string>
+    <string name="etCorreo">Correo electrónico personal*</string>
+
+    <string name="txtDireccionInformante">Dirección (longitud y latitud deben tener algun valor)</string>
+    <string name="txtUbicacion">Ubicación actual: </string>
+
+    <string name="txtPosiblesCasos">Posibles casos</string>
+    <string name="txtPersonas">Número de personas que viven en su hogar, incluido Usted.</string>
+    <string name="etPersonas">Número de personas*</string>
+
+    <string name="txtSintoma">¿Usted o alguna persona en su domicilio o entorno presenta estos síntomas:
+        fiebre y/o tos, dolor de garganta, malestar general, o dificultad al respirar (falta de aire)?
+    </string>
+
+    <string name="txtContacto">Ha tenido contacto cercano con alguna persona diagnosticada o altamente sospechosa de presentar síntomas</string>
+
+    <string name="txtCuarentena">Manténgase aislado del resto de personas en su domicilio, utilice
+        todo el tiempo mascarilla , lávese las manos constantemente. Usted debe permanecer en cuarentena
+        por 14 días, es importante que se mantenga aislado de personas mayores de 60 años o con enfermedades crónicas.
+        Mantenga al menos dos metros de distancia.
+    </string>
+
+    <string name="txtLleneDeNuevo">Si en los días siguientes, algún familiar o alguien de su entorno
+        presenta síntomas, por favor vuelva a llenar el formulario desde el inicio.
+    </string>
+
+    <string name="txtEsUstedPersonaConSintomas">¿Es usted una de las personas que tiene síntomas?</string>
+
+    <string name="txtPersonasConSintomas">Personas con síntomas</string>
+    <string name="txtCantidadPersonasConSintomas">¿Cuántas personas en su domicilio o entorno presentan
+        estos síntomas: fiebre y/o tos, dolor de garganta, malestar general, o dificultad al respirar
+        (falta de aire)?. \n \n Si presionó SI en la pregunta anterior, usted debe INCLUIRSE en el número
+        de personas que presenten síntomas.
+    </string>
+    <string name="etCantidadPersonasSintomas">Cantidad</string>
+
+    <string name="btnTelemedicinaEstudiante">Telemedicina</string>
+    <string name="btnSiguiente">Siguiente</string>
+
+    <string name="txt_gracias_llenar_encuesta">Gracias por llenar la encuesta, puede conectarse a Telesalud
+        presionando el siguiente link:
+    </string>
+
+    <string name="txt_link">
+        <a href="https://telesalud.ec/">TELESALUD ECUADOR</a>
+    </string>
+
+    <string name="txtTituloDtFam">FORMULARIO DE LA PERSONA QUE PRESENTA SINTOMAS</string>
+    <string name="txtNombreCompleto">Nombres completos</string>
+    <string name="etApellidosFam">Apellidos*</string>
+    <string name="etNombresFam">Nombres*</string>
+    <string name="txtCedulaFamiliar">Cédula Identidad</string>
+    <string name="etCedulaFamiliar">Ingrese 10 dígitos*</string>
+    <string name="txtEdadFamiliar">Edad (en años)</string>
+    <string name="etEdadFamiliar">Ingrese máximo 2 dígitos*</string>
+    <string name="txtPregunta4Fam">La persona que presenta síntomas, ha tenido contacto
+        con alguna persona diagnosticada positiva o altamente sospechosa de presentar síntomas.
+    </string>
+    <string name="rbContactoSiFam">Si</string>
+    <string name="rbContactoNoFam">No</string>
+    <string name="rbContactoDescFam">Desconozco</string>
+    <string name="txtPregunta5Fam">¿La persona presenta cualquiera de los siguientes síntomas?*</string>
+    <string name="chbFiebre">Fiebre</string>
+    <string name="chbTos">Tos</string>
+    <string name="chbGarganta">Dolor o molestias de garganta</string>
+    <string name="chbDiarrea">Diarrea</string>
+    <string name="chbCabeza">Dolor de cabeza</string>
+    <string name="chbNasal">Congestión nasal (catarro)</string>
+    <string name="chbPerdOlfato">Pérdida del olfato</string>
+    <string name="chbPerdGusto">Pérdida del gusto</string>
+    <string name="chbDifRespirar">Dificultad para respirar (falta de aire)</string>
+    <string name="chbConjuntivitis">Conjuntivitis (irritación en los ojos)</string>
+    <string name="chbMalGeneral">Malestar general (cansancio y/o dolor corporal)</string>
+    <string name="txtPregunta6Fam">¿La persona presenta una o más de las siguientes condiciones?*</string>
+    <string name="chbMayor60">Mayor de 60 años</string>
+    <string name="chbDiabetes">Diabetes</string>
+    <string name="chbHipertension">Hipertensión</string>
+    <string name="chbEnfCorazon">Enfermedades del corazón</string>
+    <string name="chbEnfPulmonar">Enfermedad pulmonar (asma, enfisema)</string>
+    <string name="chbEnfRinones">Enfermedad crónica de los riñones</string>
+    <string name="chbInmunopresion">Inmunosupresión (toma corticoides, tratamiento de cáncer, VIH)</string>
+    <string name="chbEnfHigado">Enfermedad crónica del hígado</string>
+    <string name="chbCancer">Cáncer</string>
+    <string name="chbEnfAutInmunes">Enfermedades autoinmunes (Lupus eritematoso sistémico, artritis reumatoidea)</string>
+    <string name="chbNinguno">Ninguno</string>
+    <string name="txtPregunta7Fam">Dificultad para respirar severa</string>
+    <string name="chbDifHablar">Tiene dificultad para hablar más de dos palabras sin que le falte el aire</string>
+    <string name="chbFaltaAire">Le falta el aire después de actividad leve o mientras está en reposo</string>
+    <string name="chbDolorToracico">Dolor torácico intenso</string>
+    <string name="chbNinguna">Ninguna de las anteriores</string>
+    <string name="txtNoRequiereHospitalizacion">No tiene síntomas que requieren hospitalización, si
+        necesita comunicarse con un profesional de la salud puede hacerlo accediendo mediante
+        la opción Telemedicina. \n Mantenga la calma, quédese en casa, utilice
+        mascarilla, practique distanciamiento social, lávese las manos frecuentemente, hidrátese. \n
+        Si los síntomas empeoran vuelva a llenar la encuesta desde el inicio.
+    </string>
+    <string name="txtComuniqueProfesional">Esta persona debe mantenerse aislada del resto de personas en su domicilio, utilizar
+        todo el tiempo mascarilla , lavarse las manos constantemente e hidratarse. \n Debe permanecer en cuarentena
+        por 14 días, es importante que se mantenga aislado de personas mayores de 60 años o con enfermedades crónicas.
+        \n Mantenga al menos dos metros de distancia. Mantenga la calma, manténgase en casa, no acuda a un servicio
+        de salud a menos que sus síntomas empeoren.
+    </string>
+    <string name="txtAtencionUrgente">Esta persona necesita atención urgente, acceda a
+        una consulta en línea mediante la opción Telemedicina, o acuda al servicio
+        de salud más cercano o llame al 9-1-1.
+    </string>
+
+    <string name="txtCaso1">
+        Mantenga la calma, lávese las manos frecuentemente, tome abundantes líquidos
+        y practique distanciamiento social. \n Al momento usted  NO requiere Hospitalización, pero
+        puede comunicarse con un profesional de la salud mediante la opción de Telemedicina.
+        Si los síntomas empeoran puede volver a llenar la encuesta desde el inicio.
+    </string>
+    <string name="txtCaso2">
+        Esta persona debe mantenerse aislada 14 días del resto de la familia, especialmente de personas
+        vulnerables (mayores 60 años o con Enf. Crónicas), y utilizar mascarilla. \n Mantenga la calma,
+        lávese las manos frecuentemente, tome abundantes líquidos. Al momento usted  NO requiere
+        Hospitalización, pero puede comunicarse con un profesional de la salud mediante la opción de Telemedicina.
+    </string>
+    <string name="txtCaso3">
+        Mantenga la calma, lávese las manos frecuentemente, tome abundantes líquidos y practique
+        distanciamiento social. Al momento usted  NO requiere Hospitalización, pero puede comunicarse
+        con un profesional de la salud mediante la opción de Telemedicina.
+    </string>
+    <string name="txtCaso4">
+        Al momento usted  no requiere Hospitalización, pero puede comunicarse con un profesional de la
+        salud mediante la opción  Telemedicina. Mantenga la calma,  quédese en casa, lávese las manos
+        frecuentemente,  tome abundantes líquidos, practique distanciamiento social y siga los consejos del médico.
+    </string>
+    <string name="txtCaso5">
+        Está persona necesita atención urgente, llamé al 911 o  acceda a una consulta en línea mediante
+        la opción Telemedicina.
+    </string>
+
+    <string name="btnTelemedicina">Telemedicina</string>
+    <string name="btnGuardarDatosFam">Siguiente</string>
+
+    <color name="negro">#FE000000</color>
+    <color name="azul_app">#1F357B</color>
+
+    <string name="title_activity_introduction">IntroductionActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="txt_ingresar">ACEPTAR</string>
+    <string name="string_desarrollado_por">DESARROLLADO POR:</string>
+    <string name="string_universidad_central">UNIVERSIDAD CENTRAL</string>
+    <string name="string_del_Ecuador">DEL ECUADOR</string>
+    <string name="string_titulo_app">APLICATIVO PARA LEVANTAMIENTO DE INFORMACION EPIDEMIOLÓGICA</string>
+    <string name="string_titulo_aceptacion_encuesta">DECLARACIÓN DE ACEPTACIÓN</string>
+    <string name="string_mensaje_aceptacion_encuesta">Acepta participar de forma libre y voluntaria en la realización de
+        esta encuesta y autoriza utilizar la información para realizar seguimiento epidemiológico. Su información será manejada de manera confidencial y para los fines descritos.
+    </string>
+    <string name="string_cerrar_sesion">Cerrar Sesión</string>
+    <string name="ticket">TICKET #</string>
+    <string name="se_ha_ingresado_correctamente">Se ha ingresado correctamente</string>
+    <string name="usted_tiene">Usted tiene:</string>
+    <string name="se_ha_ingresado_exitosamente">Se ha ingresado exitosamente</string>
+    <string name="ticket_familiar">TICKET # ___</string>
+
+</resources>
