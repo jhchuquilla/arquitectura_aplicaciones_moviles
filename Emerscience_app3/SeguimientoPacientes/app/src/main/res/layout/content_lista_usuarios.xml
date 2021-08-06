@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#FFFFFF"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.emerscience.seguimiento.activity.ListaUsuariosActivity"
+    tools:context="com.emerscience.seguimientos.activity.ListaUsuariosActivity"
     tools:showIn="@layout/activity_lista_usuarios">
 
     <TextView

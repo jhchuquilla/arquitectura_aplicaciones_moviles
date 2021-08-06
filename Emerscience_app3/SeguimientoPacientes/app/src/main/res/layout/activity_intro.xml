@@ -5,6 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/back_intro"
-    tools:context="com.emerscience.seguimiento.activity.IntroActivity">
+    tools:context="com.emerscience.seguimientos.activity.IntroActivity">
 
 </androidx.constraintlayout.widget.ConstraintLayout>

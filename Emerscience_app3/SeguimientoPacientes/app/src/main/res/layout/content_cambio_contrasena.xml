@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/style_formulario_usuario"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.emerscience.seguimiento.activity.CambioContrasenaActivity"
+    tools:context="com.emerscience.seguimientos.activity.CambioContrasenaActivity"
     tools:showIn="@layout/activity_cambio_contrasena">
 
     <ScrollView

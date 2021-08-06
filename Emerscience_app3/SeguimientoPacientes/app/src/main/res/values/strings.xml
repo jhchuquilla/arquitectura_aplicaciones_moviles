@@ -5,11 +5,10 @@
     <string name="string_desarrollado_por">DESARROLLADO POR:</string>
     <string name="string_universidad_central">UNIVERSIDAD CENTRAL</string>
     <string name="string_del_Ecuador">DEL ECUADOR</string>
-    <string name="string_titulo_app">APLICATIVO PARA SEGUIMIENTO EPIDEMIOLÓGICO</string>
+    <string name="string_titulo_app">APLICATIVO PARA SEGUIMIENTO</string>
     <string name="string_titulo_aceptacion_encuesta">IMPORTANTE</string>
     <string name="string_mensaje_aceptacion_encuesta">Acepta participar de forma libre y voluntaria
-        en uso de esta aplicación y autoriza utilizar la información para realizar seguimiento
-        epidemiológico. Su información será manejada de manera confidencial y para los fines descritos.
+        en uso de esta aplicación y autoriza utilizar la información para realizar seguimiento. Su información será manejada de manera confidencial y para los fines descritos.
     </string>
 
     <string name="prompt_email">Usuario</string>
@@ -46,8 +45,8 @@
     <string name="lblFatiga">Fatiga o cansancio grave o severo</string>
     <string name="lblDifHablar">Dificultades para hablar o moverse</string>
     <string name="lblDelirio">Delirio o pérdida de la conciencia</string>
-    <string name="reporte_seguimiento">Síntomas\nregistrados</string>
-    <string name="visualizar_casos">Visualizar\ncasos</string>
+    <string name="reporte_seguimiento">Seguimiento\nregistrado</string>
+    <string name="visualizar_casos">Visualización\n registros</string>
     <string name="title_activity_maps">Map</string>
     <string name="lista_de_registros_por_dia">Lista de registros por día</string>
     <string name="seleccione_el_registro_para_visualizar_informacion_mas_detallada">Seleccione el registro para visualizar información más detallada</string>
@@ -55,7 +54,7 @@
     <string name="fecha_de_registro">Fecha de registro</string>
     <string name="ver_individual">Ver individual</string>
     <string name="ver_todo">Ver todo</string>
-    <string name="visualizar_casos_reportados">Visualizar Casos Reportados</string>
+    <string name="visualizar_casos_reportados">Visualizar Registros</string>
     <string name="gestion_de_usuarios">Gestión de \nusuarios</string>
     <string name="crear_nuevo">Crear nuevo</string>
     <string name="ver_editar">Ver / Editar</string>
